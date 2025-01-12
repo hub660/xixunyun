@@ -6,7 +6,7 @@ File: xixunyun_cookie.py(习讯云日周月报数据库)
 Author: luoye
 Date: 2024/3/11 13:00
 cron: 53 12 * * *
-new Env('习讯云打卡数据库');
+new Env('习讯云日周月报数据库');
 Update: 2024/3/11
 """
 
