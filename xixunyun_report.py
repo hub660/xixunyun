@@ -5,7 +5,7 @@
 File: xixunyun_cookie.py(习讯云-报告)
 Author: luoye
 Date: 2024/11/15 13:00
-cron: * 13 * * *
+cron: 54 12 * * *
 new Env('习讯云-报告');
 Update: 2024/11/15
 """
