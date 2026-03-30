@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-File: xixunyun_sign.py(习讯云打卡任务库-下班任务)
+File: xixunyun_sign.py(习讯云-下班)
 Author: luoye
 Date: 2024/10/19 13:00
 cron: 00 18 * * *
