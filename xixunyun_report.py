@@ -2,11 +2,11 @@
 # -*- coding: utf-8 -*-
 
 """
-File: xixunyun_cookie.py(习讯云报告)
+File: xixunyun_cookie.py(习讯云-报告)
 Author: luoye
 Date: 2024/11/15 13:00
-cron: 54 12 * * *
-new Env('习讯云日周月报告');
+cron: * 13 * * *
+new Env('习讯云-报告');
 Update: 2024/11/15
 """
 
