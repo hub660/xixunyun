@@ -2,13 +2,11 @@
 # -*- coding: utf-8 -*-
 
 """
-File: xixunyun_cookie.py(习讯云数据库)
+File: xixunyun_cookie.py(习讯云-数据库)
 Author: luoye
 Date: 2024/3/11 13:00
-cron: 54 8 * * *
-cron: 53 12 * * *
-cron: 54 17 * * *
-new Env('习讯云打卡数据库');
+cron: 54 8,12,17 * * *
+new Env('习讯云-数据库');
 Update: 2024/3/11
 """
 
