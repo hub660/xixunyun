@@ -278,7 +278,7 @@ python xixunyun_sign.py
 1.订阅仓库 
 青龙面板->订阅管理->创建订阅->复制粘贴到名称
 ```
-ql repo https://github.com/hub660/xixunyun.git "xixunyuna_cookie|xixunyunb_cookie|xixunyun_sign|xixunyun_sign_after|xixunyun_report" "" "^usr_.*|data/|sendNotify" "" "json|py" 
+ql repo https://github.com/hub660/xixunyun.git "xixunyuna_cookie|xixunyun_sign|xixunyun_sign_after|xixunyun_report" "" "^usr_.*|data/|sendNotify" "" "json|py" 
 ```
 最后再次在名称填写 习讯云打卡签到-B 即可 
 
