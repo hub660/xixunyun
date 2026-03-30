@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-File: xixunyun_cookie.py(习讯云日周月报告)
+File: xixunyun_cookie.py(习讯云报告)
 Author: luoye
 Date: 2024/11/15 13:00
 cron: 54 12 * * *
