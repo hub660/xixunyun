@@ -298,6 +298,7 @@ ql repo https://github.com/hub660/xixunyun.git "xixunyun_cookie|xixunyun_sign|xi
 青龙面板->依赖管理->Python3->创建依赖->自动拆分(是)->粘贴依赖到名称  
 **依赖**  
 ```
+sniffio
 certifi
 charset-normalizer
 chinese-calendar
