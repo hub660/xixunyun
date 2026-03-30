@@ -6,7 +6,7 @@ File: xixunyun_sign.py(习讯云-上班)
 Author: luoye
 Date: 2024/3/11 13:00
 cron: 55 8 * * *
-new Env('习讯云打卡任务库');
+new Env('习讯云-上班');
 Update: 2024/3/11
 """
 
